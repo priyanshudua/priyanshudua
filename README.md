@@ -50,5 +50,3 @@ When I'm not resolving IT issues, you can find me in the kitchen as a prep cook 
 - **IBM IT Support Professional Certificate**
 - **Google IT Support Professional Certificate**
 - **AWS Cloud Support Associate**
-- **
-
