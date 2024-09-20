@@ -34,7 +34,7 @@ When I'm not resolving IT issues, you can find me in the kitchen as a prep cook 
 
 ### 🛠️ Projects & Experience
 
-#### [Portfolio Website](https://priyanshu.netlify.app) | HTML, CSS, JavaScript
+#### [Portfolio Website](https://priyanshudua.netlify.app) | HTML, CSS, JavaScript
 - Created a personal website to showcase my skills and projects.
 - Ensured responsive design and SEO optimization.
 - Implemented smooth scrolling and animations for a better user experience.
